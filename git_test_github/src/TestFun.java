@@ -4,7 +4,8 @@ public class TestFun {
 		System.out.println("hello world!");
 		System.out.println("hello world!");
 		System.out.println("hello world!");
-
+		//helo world
+		//我再次修改了testFun方法
 	}
 	public void test1(){
 		int i = 10;

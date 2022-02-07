@@ -9,5 +9,6 @@ public class TestFun {
 	public void test1(){
 		int i = 10;
 		i += 10;
+		System.out.println(i);
 	}
 }
